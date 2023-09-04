@@ -2,6 +2,7 @@ const graduatesData = [
   {
     name: 'Danielly Francis',
     id: 1,
+    email: '',
     image: 'https://avatars.githubusercontent.com/u/65682057?s=96&v=4',
     area: 'Frontend',
     linkedin: 'https://www.linkedin.com/in/daniellyfrancisnascimento/',
@@ -10,6 +11,7 @@ const graduatesData = [
   {
     name: 'Jacira Sousa',
     id: 2,
+    email: '',
     image: 'https://avatars.githubusercontent.com/u/105980540?v=4',
     area: 'Frontend',
     linkedin: 'https://www.linkedin.com/in/jacira-sousa',
@@ -18,6 +20,7 @@ const graduatesData = [
   {
     name: 'Brena ODwyer',
     id: 3,
+    email: '',
     image: 'https://avatars.githubusercontent.com/u/100941862?v=4',
     area: 'Backend',
     linkedin: 'https://www.linkedin.com/in/brena-odwyer/',
@@ -26,6 +29,7 @@ const graduatesData = [
   {
     name: '',
     id: '',
+    email: '',
     image: '',
     area: '',
     linkedin: '',
