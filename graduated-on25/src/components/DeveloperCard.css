@@ -6,6 +6,11 @@
   padding: 20px;
   margin: 20px;
   text-align: center;
+  transition: background-color 0.3s;
+}
+
+.developer-card:hover {
+  background-color: #D4D4D4;
 }
 
 .developer-card img {
