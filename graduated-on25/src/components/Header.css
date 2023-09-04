@@ -1,0 +1,17 @@
+/* Header.css */
+header {
+  background-color: #333; /* Cor de fundo */
+  color: #fff; /* Cor do texto */
+  padding: 20px; /* Espaçamento interno */
+  text-align: center; /* Alinhamento do texto no centro */
+  z-index: 100;
+}
+
+h1 {
+  font-size: 2rem; /* Tamanho da fonte para o título */
+  margin: 0; /* Remova a margem padrão do h1 */
+}
+
+p {
+  font-size: 1.2rem; /* Tamanho da fonte para o parágrafo */
+}
