@@ -7,7 +7,7 @@ const DeveloperCard = ({ developer }) => {
       <img src={developer.image} alt={developer.name} />
       <h2>{developer.name}</h2>
       <h5>{developer.area}</h5>
-      <div className="social-media">
+      {/* <div className="social-media">
         <div className='github-image'>
           <a href={developer.github} target="_blank">
             <img src="./assets/img/github.png" />
@@ -18,7 +18,7 @@ const DeveloperCard = ({ developer }) => {
             <img src="./assets/img/linkedin.png" />
           </a>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
