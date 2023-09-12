@@ -1,16 +1,16 @@
 /* Header.css */
 header {
-  background-color: #333; /* Cor de fundo */
-  color: #fff; /* Cor do texto */
-  padding: 20px; /* Espaçamento interno */
-  text-align: center; /* Alinhamento do texto no centro */
+  background-color: #696969;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
   z-index: 100;
 }
 
 h1 {
   font-family: 'Pacifico', cursive;
-  font-size: 2rem; /* Tamanho da fonte para o título */
-  margin: 0; /* Remova a margem padrão do h1 */
+  font-size: 2rem;
+  margin: 0;
 }
 
 p {
