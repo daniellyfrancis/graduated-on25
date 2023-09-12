@@ -31,7 +31,7 @@ const graduatesData = [
     id: 4,
     email: 'doohfernandes@yahoo.com',
     image: 'https://avatars.githubusercontent.com/u/134214791?v=4',
-    area: 'full-stack',
+    area: 'Fullstack',
     linkedin: 'https://www.linkedin.com/in/doria-fernandes-1b898815b',
     github: 'https://github.com/DoriansFer'
   },
@@ -153,40 +153,40 @@ const graduatesData = [
     github: 'https://github.com/cibelety'
   },
   {
-    name: '',
-    id: '',
-    email: '',
-    image: '',
-    area: '',
-    linkedin: '',
-    github: ''
+    name: 'Ciane Pereira',
+    id: 18,
+    email: 'cianepereira@gmail.com',
+    image: 'https://avatars.githubusercontent.com/u/100417980?v=4',
+    area: 'Frontend',
+    linkedin: 'https://www.linkedin.com/in/ciane-pereira',
+    github: 'https://github.com/ciane-pereira '
   },
   {
-    name: '',
-    id: '',
-    email: '',
-    image: '',
-    area: '',
-    linkedin: '',
-    github: ''
+    name: 'Michele Feitosa ',
+    id: 19,
+    email: 'michelefeitosa08@gmail.com ',
+    image: 'https://avatars.githubusercontent.com/u/122487936?v=4',
+    area: 'Frontend',
+    linkedin: 'https://www.linkedin.com/in/michele-feitosa/',
+    github: 'https://github.com/MicheleFeitosa'
   },
   {
-    name: '',
-    id: '',
-    email: '',
-    image: '',
-    area: '',
-    linkedin: '',
-    github: ''
+    name: 'Yane Lobo',
+    id: 20,
+    email: 'yanelobo@gmail.com',
+    image: 'https://avatars.githubusercontent.com/u/78493583?v=4',
+    area: 'Fullstack',
+    linkedin: 'https://www.linkedin.com/in/yane-lobo-b1a218202/',
+    github: 'https://github.com/Yanelobo'
   },
   {
-    name: '',
-    id: '',
-    email: '',
-    image: '',
-    area: '',
-    linkedin: '',
-    github: ''
+    name: 'Letícia Amaral',
+    id: 21,
+    email: 'leticiaamarallara@hotmail.com',
+    image: 'https://avatars.githubusercontent.com/u/91917918?v=4',
+    area: 'Fullstack',
+    linkedin: 'https://www.linkedin.com/in/leticia-amaral-lara/',
+    github: 'https://github.com/hinale'
   },
   {
     name: '',
