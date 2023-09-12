@@ -7,6 +7,7 @@
   margin: 20px;
   text-align: center;
   transition: background-color 0.3s;
+  color: azure;
 }
 
 .developer-card:hover {
@@ -26,4 +27,8 @@
 
 .developer-card p {
   font-size: 1rem;
+}
+
+.social-media {
+  display: flex;
 }

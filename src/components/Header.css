@@ -8,10 +8,11 @@ header {
 }
 
 h1 {
+  font-family: 'Pacifico', cursive;
   font-size: 2rem; /* Tamanho da fonte para o título */
   margin: 0; /* Remova a margem padrão do h1 */
 }
 
 p {
-  font-size: 1.2rem; /* Tamanho da fonte para o parágrafo */
+  font-size: 1.2rem;
 }

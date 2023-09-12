@@ -40,7 +40,7 @@ const graduatesData = [
     id: 5,
     email: 'psi.fagundes@gmail.com',
     image: 'https://avatars.githubusercontent.com/u/70037054?v=4',
-    area: 'frontend',
+    area: 'Frontend',
     linkedin: 'https://www.linkedin.com/in/nicole-siqueira-fagundes/',
     github: 'https://github.com/NicoleSF'
   },
@@ -49,7 +49,7 @@ const graduatesData = [
     id: 6,
     email: 'yelitzalopezduque@gmail.com',
     image: 'https://avatars.githubusercontent.com/u/66750199?v=4',
-    area: 'frontend',
+    area: 'Frontend',
     linkedin: 'https://www.linkedin.com/in/yelitza-lopez/',
     github: 'https://github.com/yelalopez'
   },
@@ -58,7 +58,7 @@ const graduatesData = [
     id: 7,
     email: 'laissa_saraiva@hotmail.com',
     image: 'https://avatars.githubusercontent.com/u/89320507?v=4',
-    area: 'frontend',
+    area: 'Frontend',
     linkedin: 'https://www.linkedin.com/in/laissasc',
     github: 'https://github.com/LaissaSaraiva'
   },
@@ -67,7 +67,7 @@ const graduatesData = [
     id: 8,
     email: 'allanaevellynm@gmail.com',
     image: 'https://avatars.githubusercontent.com/u/72167946?v=4',
-    area: 'frontend',
+    area: 'Frontend',
     linkedin: 'https://www.linkedin.com/in/allanaevellyn/',
     github: 'https://github.com/allanina'
   },
@@ -76,7 +76,7 @@ const graduatesData = [
     id: 9,
     email: 'rd.davino@gmail.com',
     image: 'https://avatars.githubusercontent.com/u/17301630?v=4',
-    area: 'frontend',
+    area: 'Frontend',
     linkedin: 'https://www.linkedin.com/in/raquel-davino/',
     github: 'https://github.com/rddavino'
   },
@@ -85,7 +85,7 @@ const graduatesData = [
     id: 10,
     email: 'marianaaseidel@gmail.com',
     image: 'https://avatars.githubusercontent.com/u/70062295?v=4',
-    area: 'frontend',
+    area: 'Frontend',
     linkedin: 'https://www.linkedin.com/in/mariana-seidel-444023193/',
     github: 'https://github.com/marianaseidel'
   },
@@ -93,64 +93,64 @@ const graduatesData = [
     name: 'Katiene Souza',
     id: 11,
     email: 'katienesouza71@gmail.com',
-    image: 'https://github.co',
-    area: 'full-stack',
+    image: 'https://avatars.githubusercontent.com/u/85809975?v=4',
+    area: 'Fullstack',
     linkedin: 'https://www.linkedin.com/in/katiene-souza/',
     github: 'https://github.com/katiene-souza'
   },
   {
-    name: 'Érica',
-    id: '',
-    email: '',
+    name: 'Érica Souza',
+    id: 12,
+    email: 'ericamilenaa@gmail.com',
+    image: 'https://avatars.githubusercontent.com/u/116022424?v=4',
+    area: 'Frontend',
+    linkedin: 'https://www.linkedin.com/in/ericasouzaa/',
+    github: 'https://github.com/ericasouzaa'
+  },
+  {
+    name: 'Roberta Amaro',
+    id: 13,
+    email: 'roberta.amaro89@gmail.com',
     image: '',
-    area: '',
-    linkedin: '',
+    area: 'Frontend',
+    linkedin: 'https://linkedin.com/in/roberta-amaro',
     github: ''
   },
   {
-    name: '',
-    id: '',
-    email: '',
-    image: '',
-    area: '',
-    linkedin: '',
-    github: ''
+    name: 'Deborah Gomes',
+    id: 14,
+    email: 'debbsgomes@gmail.com',
+    image: 'https://avatars.githubusercontent.com/u/79792247?v=4',
+    area: 'Fullstack',
+    linkedin: 'https://www.linkedin.com/in/deborahgomes123/',
+    github: 'https://github.com/debbsgomes'
   },
   {
-    name: '',
-    id: '',
-    email: '',
-    image: '',
-    area: '',
+    name: 'Elvira Bruno',
+    id: 15,
+    email: 'elvirabrunoleme@gmail.com',
+    image: 'https://avatars.githubusercontent.com/u/109379404?v=4',
+    area: 'Backend',
     linkedin: '',
-    github: ''
+    github: 'https://github.com/elvirabl'
   },
   {
-    name: '',
-    id: '',
-    email: '',
-    image: '',
-    area: '',
-    linkedin: '',
-    github: ''
+    name: 'Celina Oliveira',
+    id: 16,
+    email: 'celinaoliveira98@gmail.com',
+    image: 'https://avatars.githubusercontent.com/u/104396574?v=4',
+    area: 'Backend',
+    linkedin: 'https://www.linkedin.com/in/celina-neta-65a67a266/',
+    github: 'https://github.com/CelinaOliveira'
   },
   {
-    name: '',
-    id: '',
-    email: '',
+    name: 'Cibele Yamamoto',
+    id: 17,
+    email: 'cibelety@gmail.com',
     image: '',
-    area: '',
-    linkedin: '',
-    github: ''
-  },
-  {
-    name: '',
-    id: '',
-    email: '',
-    image: '',
-    area: '',
-    linkedin: '',
-    github: ''
+    area: 'Fullstack',
+    linkedin: 'https://www.linkedin.com/in/cibelety/',
+    github: 'https://github.com/cibelety'
   },
   {
     name: '',
