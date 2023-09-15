@@ -1,8 +1,8 @@
 import React from 'react';
-import DeveloperCard from './components/DeveloperCard';
+import DeveloperCard from './components/DeveloperCard/DeveloperCard';
 import graduatesData from './graduatesData';
-import Header from './components/Header';
-import Footer from './components/Footer';
+import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
 import './App.css';
 
 function App() {

@@ -1,8 +1,8 @@
 import React from 'react';
 import { Tilt } from 'react-tilt';
 import './DeveloperCard.css';
-import githubImage from '../assets/img/github.png';
-import linkedinImage from '../assets/img/linkedin.png';
+import githubImage from '../../assets/img/github.png';
+import linkedinImage from '../../assets/img/linkedin.png';
 
 const DeveloperCard = ({ developer }) => {
   return (

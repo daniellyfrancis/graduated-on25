@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import reprogramaLogo from '../assets/img/reprograma.svg'
+import reprogramaLogo from '../../assets/img/reprograma.svg'
 
 const Header = () => {
   return (
