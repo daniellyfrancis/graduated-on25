@@ -189,22 +189,40 @@ const graduatesData = [
     github: 'https://github.com/hinale'
   },
   {
-    name: '',
-    id: '',
-    email: '',
-    image: '',
-    area: '',
-    linkedin: '',
-    github: ''
+    name: 'Daniela Botelho ',
+    id: 22,
+    email: 'danibl26@gmail.com',
+    image: 'https://avatars.githubusercontent.com/u/79178227?v=4',
+    area: 'Fullstack',
+    linkedin: 'https://www.linkedin.com/in/dani-botelho/',
+    github: 'https://github.com/danibotelho'
   },
   {
-    name: '',
-    id: '',
-    email: '',
-    image: '',
-    area: '',
-    linkedin: '',
-    github: ''
+    name: 'Marina Laurênio ',
+    id: 23,
+    email: 'laureniomarina@gmail.com',
+    image: 'https://avatars.githubusercontent.com/u/124265922?v=4',
+    area: 'Frontend',
+    linkedin: 'https://www.linkedin.com/in/marina-laurenio',
+    github: 'https://github.com/MarinaLaurenio'
+  },
+  {
+    name: 'Zaida Cueto ',
+    id: 24,
+    email: 'zcueto58@gmail.com ',
+    image: 'https://avatars.githubusercontent.com/u/87122304?v=4',
+    area: 'Frontend',
+    linkedin: 'https://www.linkedin.com/in/zaidacuetoa',
+    github: 'https://github.com/ZaidaCueto'
+  },
+  {
+    name: 'Priscila Baer Vieira',
+    id: 25,
+    email: 'priscilabg@gmail.com',
+    image: 'https://avatars.githubusercontent.com/u/5360557?v=4',
+    area: 'Fullstack',
+    linkedin: 'https://www.linkedin.com/in/pribaer',
+    github: 'https://github.com/Prissie'
   },
 ];
 
