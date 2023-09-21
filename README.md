@@ -6,6 +6,8 @@ You can check the application here: }
 
 https://graduateson25.netlify.app/
 
+![Texto alternativo da imagem](https://raw.githubusercontent.com/daniellyfrancis/graduates-on25/main/graduates.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
